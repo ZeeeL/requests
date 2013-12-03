@@ -1,0 +1,5 @@
+requests (2.0.1-1) unstable; urgency=low
+
+  * KA-98 debianize package
+
+ -- Andrey Stolbuhin <an.stol99@gmail.com>  Tue, 03 Dec 2013 17:18:39 +0400

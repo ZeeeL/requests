@@ -21,3 +21,10 @@ env/
 t.py
 
 t2.py
+
+# Debian temporary
+*.debhelper
+*.debhelper.log
+*.substvars
+debian/*/*
+debian/files
